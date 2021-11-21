@@ -1,5 +1,6 @@
   👋 Hi there, I’m Jitendra Thapa.
-  [![HitCount](http://hits.dwyl.com/jthapa7/jthapa7.svg?style=flat-square)](http://hits.dwyl.com/jthapa7/jthapa7)
+  
+  ![HitCount](http://hits.dwyl.com/jthapa7/jthapa7.svg?style=flat-square)](http://hits.dwyl.com/jthapa7/jthapa7)
   
 - 👀 I’m am looking to work on simple projects to develop my skills
 - 🌱 I’m currently learning Python
