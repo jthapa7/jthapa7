@@ -1,6 +1,6 @@
-  👋 Hi there, I’m Jitendra Thapa.
-  Just dumping my projects codes.
-- 📫 How to reach me LinkedIn: https://www.linkedin.com/in/jitendra-thapa-016132158 or email: thapajitendra8@gmail.com
+  **Hi there, I’m Jitendra Thapa.**
+  Just dumping my projects with codes in here.
+ **How to reach me LinkedIn:** https://www.linkedin.com/in/jitendra-thapa-016132158 or email: thapajitendra8@gmail.com
 
 <!---
 jthapa7/jthapa7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
