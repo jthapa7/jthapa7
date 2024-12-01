@@ -1,5 +1,5 @@
   **Hi there, I’m Jitendra Thapa.**
-  Just dumping my past and projects here.
+  Just dumping my past and current projects here.
   
  **You can reach me** 
  via LinkedIn:https://www.linkedin.com/in/jitendra-thapa-016132158 
